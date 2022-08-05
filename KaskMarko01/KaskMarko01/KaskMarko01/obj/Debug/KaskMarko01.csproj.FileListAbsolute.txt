@@ -1,0 +1,10 @@
+E:\Dokumendid\TallinnaKutsekas\OOP\Kodune01\KaskMarko\KaskMarko01\KaskMarko01\bin\Debug\KaskMarko01.exe.config
+E:\Dokumendid\TallinnaKutsekas\OOP\Kodune01\KaskMarko\KaskMarko01\KaskMarko01\bin\Debug\KaskMarko01.exe
+E:\Dokumendid\TallinnaKutsekas\OOP\Kodune01\KaskMarko\KaskMarko01\KaskMarko01\bin\Debug\KaskMarko01.pdb
+E:\Dokumendid\TallinnaKutsekas\OOP\Kodune01\KaskMarko\KaskMarko01\KaskMarko01\obj\Debug\KaskMarko01.csprojAssemblyReference.cache
+E:\Dokumendid\TallinnaKutsekas\OOP\Kodune01\KaskMarko\KaskMarko01\KaskMarko01\obj\Debug\KaskMarko01.Form1.resources
+E:\Dokumendid\TallinnaKutsekas\OOP\Kodune01\KaskMarko\KaskMarko01\KaskMarko01\obj\Debug\KaskMarko01.Properties.Resources.resources
+E:\Dokumendid\TallinnaKutsekas\OOP\Kodune01\KaskMarko\KaskMarko01\KaskMarko01\obj\Debug\KaskMarko01.csproj.GenerateResource.cache
+E:\Dokumendid\TallinnaKutsekas\OOP\Kodune01\KaskMarko\KaskMarko01\KaskMarko01\obj\Debug\KaskMarko01.csproj.CoreCompileInputs.cache
+E:\Dokumendid\TallinnaKutsekas\OOP\Kodune01\KaskMarko\KaskMarko01\KaskMarko01\obj\Debug\KaskMarko01.exe
+E:\Dokumendid\TallinnaKutsekas\OOP\Kodune01\KaskMarko\KaskMarko01\KaskMarko01\obj\Debug\KaskMarko01.pdb

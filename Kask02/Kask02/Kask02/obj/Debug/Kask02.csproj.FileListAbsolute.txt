@@ -1,0 +1,10 @@
+E:\Dokumendid\TallinnaKutsekas\OOP\Kodune02\Kask02\Kask02\bin\Debug\Kask02.exe.config
+E:\Dokumendid\TallinnaKutsekas\OOP\Kodune02\Kask02\Kask02\bin\Debug\Kask02.exe
+E:\Dokumendid\TallinnaKutsekas\OOP\Kodune02\Kask02\Kask02\bin\Debug\Kask02.pdb
+E:\Dokumendid\TallinnaKutsekas\OOP\Kodune02\Kask02\Kask02\obj\Debug\Kask02.csprojAssemblyReference.cache
+E:\Dokumendid\TallinnaKutsekas\OOP\Kodune02\Kask02\Kask02\obj\Debug\Kask02.Form1.resources
+E:\Dokumendid\TallinnaKutsekas\OOP\Kodune02\Kask02\Kask02\obj\Debug\Kask02.Properties.Resources.resources
+E:\Dokumendid\TallinnaKutsekas\OOP\Kodune02\Kask02\Kask02\obj\Debug\Kask02.csproj.GenerateResource.cache
+E:\Dokumendid\TallinnaKutsekas\OOP\Kodune02\Kask02\Kask02\obj\Debug\Kask02.csproj.CoreCompileInputs.cache
+E:\Dokumendid\TallinnaKutsekas\OOP\Kodune02\Kask02\Kask02\obj\Debug\Kask02.exe
+E:\Dokumendid\TallinnaKutsekas\OOP\Kodune02\Kask02\Kask02\obj\Debug\Kask02.pdb
